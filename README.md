@@ -65,6 +65,8 @@ classes = {
 }
 </pre>
 
+[Saved NN Model](https://github.com/lilithfactor/tweet-sentiment-analysis/blob/main/net_94acc.pt)
+
 <hr>
 
 ## `References`
